@@ -16,7 +16,7 @@
     "url": "https://github.com/jochouen/manifest/issues"
   },
   "homepage": "https://github.com/jochouen/manifest#readme",
-  "devDependencies": {
+  "dependencies": {
     "glob-promise": "1.0.6"
   }
 }
